@@ -9,7 +9,7 @@
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
   },
   "license": "MIT",
-  "homepage": "https://sitonlotus.github.io/DigitalFlop/demo/",
+  "homepage": "https://sitonlotus.github.io/digitalFlop/index.html",
   "repository": {
     "type": "git",
     "url": "git://github.com/sitonlotus/vue-digital-flop.git"
