@@ -153,7 +153,6 @@ export default {
 		if (this.autoplay) {
 			this.start();
 		}
-		console.log("定时刷新", this.isFrequent, this.frequentTime);
 		if (this.isFrequent && this.frequentTime) {
 			this.timer = setInterval(() => {
 				this.start(this.randomNum(0, this.endVal));
