@@ -1,4 +1,4 @@
-# vue-countTo
+# vue-digital-flop
 
 > It's a vue component that will count to a target number at a specified duration.
 
