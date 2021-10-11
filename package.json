@@ -1,7 +1,7 @@
 {
   "name": "vue-digital-flop",
   "description": "It's a vue component that will count to a target number at a specified duration",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "SitOnLotus <1805427468@qq.com>",
   "main": "dist/vue-digital-flop.min.js",
   "scripts": {
