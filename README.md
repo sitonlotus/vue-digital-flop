@@ -16,7 +16,7 @@ You can set startVal and endVal ,it will automatic judge count up or count down.
 It is support vue-ssr.
 It is learn from countUp.js;
 
-## [Try the demo](http://sitonlotus.github.io/digitalFlop/demo/)
+## [Try the demo](http://sitonlotus.github.io/digitalFlop/index.html)
 
 ### How to use?
 
