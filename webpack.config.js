@@ -9,7 +9,7 @@ module.exports = {
 		path: path.resolve(__dirname, "./dist"),
 		publicPath: "/dist/",
 		filename: "vue-digital-flop.min.js",
-		library: "DigitalFlop",
+		library: "VueDigitalFlop",
 		libraryTarget: "umd",
 		umdNamedDefine: true,
 	},

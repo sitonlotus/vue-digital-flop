@@ -1,5 +1,5 @@
-import DigitalFlop from "./vue-digital-flop.vue";
-export default DigitalFlop;
+import VueDigitalFlop from "./vue-digital-flop.vue";
+export default VueDigitalFlop;
 if (typeof window !== "undefined" && window.Vue) {
-	window.Vue.component("vue-digital-flop", DigitalFlop);
+	window.Vue.component("vue-digital-flop", VueDigitalFlop);
 }
